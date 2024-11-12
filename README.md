@@ -16,8 +16,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos sobre desenvolvimento d
 ## 💻 Tecnologias que eu uso
 
 - Linguagens: PHP, CSS, HTML, JavaScript, GDScript, C#
-- Ferramentas: [Exemplo: Godot Engine, Unity, Git]
-- Outras tecnologias: [Outras que você usa]
+- Ferramentas: Godot engine, Unity, Construct2, Vscode e Atom
 
 ## 🏆 Badges
 
