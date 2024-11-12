@@ -18,7 +18,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos sobre desenvolvimento d
 - Linguagens: PHP, CSS, HTML, JavaScript, GDScript, C#
 - Ferramentas: Godot engine, Unity, Construct2, Vscode e Atom
 
-## 🏆 Badges
+## 🏆 Experiencias / Contato
 
 ![PHP](https://img.shields.io/badge/Programming-PHP-blue)
 ![CSS](https://img.shields.io/badge/Programming-CSS-blue)
