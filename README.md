@@ -1,12 +1,12 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou Gabriel Campos 👋
 
 Bem-vindo ao meu GitHub! Aqui você encontrará projetos sobre desenvolvimento de jogos, programação e outros interesses. Estou sempre aprendendo e compartilhando minhas experiências com a comunidade.
 
 ## 🚀 Sobre mim
 
-- **Nome**: [Seu Nome]
-- **Curso**: [Seu Curso] - [Onde Você Estuda]
-- **Experiência com Programação**: Tenho experiência com várias linguagens de programação, incluindo PHP, CSS, HTML, JavaScript, GDScript e C#. Estou sempre em busca de aprender mais e melhorar minhas habilidades, especialmente no desenvolvimento de jogos.
+- **Nome**: Gabriel Antonio
+- **Curso**: Progamação de Jogos Digitais - Etec Emerlinda Gianinni Teixeira 
+- **Experiência com Programação**: No momento, estou aprendendo várias linguagens de programação, incluindo PHP, CSS, HTML, JavaScript, GDScript e C#. Estou sempre em busca de aprender mais e melhorar minhas habilidades, especialmente no desenvolvimento de jogos.
 
 ## 📱 Conecte-se comigo
 
@@ -31,16 +31,9 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos sobre desenvolvimento d
 ![Instagram followers](https://img.shields.io/badge/Instagram-%40gac0707-E4405F?style=social)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-%20Click%20Here-brightgreen?style=social)
 
-## 🎮 Projetos
-
-Aqui você pode encontrar alguns dos meus projetos:
-
-- [Nome do Projeto 1](link-do-repositório): Descrição do projeto.
-- [Nome do Projeto 2](link-do-repositório): Descrição do projeto.
-
 ## 📚 Aprendizado contínuo
 
-Atualmente, estou focado em [o que você está aprendendo], e adoraria discutir sobre [tema de interesse]. Se você tiver sugestões de recursos ou quiser conversar sobre qualquer um desses tópicos, fique à vontade para entrar em contato!
+Atualmente, estou focado em Progamação de jogos e Front-end, e adoraria discutir sobre esses assuntos. Se você tiver sugestões de recursos ou quiser conversar sobre qualquer um desses tópicos, fique à vontade para entrar em contato!
 
 ---
 
