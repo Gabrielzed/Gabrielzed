@@ -5,7 +5,8 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos sobre desenvolvimento d
 ## 🚀 Sobre mim
 
 - **Nome**: Gabriel Antonio
-- **Curso**: Progamação de Jogos Digitais - Etec Emerlinda Gianinni Teixeira 
+- **Curso**: Progamação de Jogos Digitais - Etec Emerlinda Gianinni Teixeira
+- **Curso**: Desenvolvimento de Sistemas - Etec Emerlinda Gianinni Teixeira 
 - **Experiência com Programação**: No momento, estou aprendendo várias linguagens de programação, incluindo PHP, CSS, HTML, JavaScript, GDScript e C#. Estou sempre em busca de aprender mais e melhorar minhas habilidades, especialmente no desenvolvimento de jogos.
 
 
