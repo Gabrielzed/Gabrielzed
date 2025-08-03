@@ -8,15 +8,11 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos sobre desenvolvimento d
 - **Curso**: Progamação de Jogos Digitais - Etec Emerlinda Gianinni Teixeira 
 - **Experiência com Programação**: No momento, estou aprendendo várias linguagens de programação, incluindo PHP, CSS, HTML, JavaScript, GDScript e C#. Estou sempre em busca de aprender mais e melhorar minhas habilidades, especialmente no desenvolvimento de jogos.
 
-## 📱 Conecte-se comigo
-
-- Instagram: [@gac0707](https://www.instagram.com/gac0707/)
-- WhatsApp: [Clique aqui para me chamar no WhatsApp](https://wa.me/5511916429438)
 
 ## 💻 Tecnologias que eu uso
 
 - Linguagens: PHP, CSS, HTML, JavaScript, GDScript, C#
-- Ferramentas: Godot engine, Unity, Construct2, Vscode e Atom
+- Ferramentas: Godot engine, Unity, Construct2, Visual Studio 2022 Atom
 
 ## 🏆 Experiencias / Contato
 
